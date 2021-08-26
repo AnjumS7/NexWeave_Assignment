@@ -5,8 +5,8 @@ I have used Semantic UI for styling.
 I have also included the screenshots 
 
 To run the project, please do the following :
-  Clone the repository
-  Go to the folder and run npm install to install the dependencies
+  Clone the repository.
+  Go to the folder and run npm install to install the dependencies.
   Run npm start to start the app.
  
  
