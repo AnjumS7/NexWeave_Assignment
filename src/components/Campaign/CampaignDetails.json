@@ -1,0 +1,41 @@
+[
+    {
+        "campaignName" : "Website Promotion - Landing",
+        "status" : "SUCCESS",
+        "createdAt" : "17 Jun 2021",
+        "method" : "CSV",
+        "Media" : "Video",
+        "backColor" : "#90EE90",
+        "textColor" : "green"
+    },
+
+    {
+        "campaignName" : "App Download",
+        "status" : "FAILED",
+        "createdAt" : "15 Jun 2021",
+        "method" : "URL Override",
+        "Media" : "Video",
+        "backColor" : "#FFCCCC",
+        "textColor" : "red"
+    },
+
+    {
+        "campaignName" : "Social Media Promotion",
+        "status" : "SUCCESS",
+        "createdAt" : "14 Jun 2021",
+        "method" : "CSV",
+        "Media" : "Video",
+        "backColor" : "#90EE90",
+        "textColor" : "green"
+    },
+
+    {
+        "campaignName" : "LinkedIn Templates",
+        "status" : "FAILED",
+        "createdAt" : "13 Jun 2021",
+        "method" : "URL Override",
+        "Media" : "Video",
+        "backColor" : "#FFCCCC",
+        "textColor" : "red"
+    }
+]
